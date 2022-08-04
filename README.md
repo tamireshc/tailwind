@@ -1,4 +1,4 @@
-# Pasta de estudos de tailwind
+# Estudos de tailwind :blue_book:
 
-Clone de páginas web para estudo de tailwind
-Código autoral
+:cyclone: Clone de páginas web para estudo de tailwind <br>
+:pencil2: Código autoral
